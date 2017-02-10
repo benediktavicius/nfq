@@ -1,0 +1,19 @@
+.search {
+	float: right;
+}
+
+.navbar {
+	border: none;
+	background-color: #4d90db;
+	padding: 10px;
+	border-radius: 0;
+}
+
+form {
+	text-align: center;
+	display: inline-block;
+}
+
+.pagination{
+	float: right;
+}
