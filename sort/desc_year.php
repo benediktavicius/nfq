@@ -40,7 +40,7 @@ include("../global/scripts.php");
         <tr>
           <th>Name<a href="../sort/asc_name.php" class="glyphicon glyphicon-triangle-bottom"></a><a href="../sort/desc_name.php" class="glyphicon glyphicon-triangle-top"></a></th>
           <th>Author<a href="../sort/asc_author.php" class="glyphicon glyphicon-triangle-bottom"></a><a href="../sort/desc_author.php" class="glyphicon glyphicon-triangle-top"></a></th>
-          <th>Year<a href="../sort/desc_year.php" class="glyphicon glyphicon-triangle-bottom"></a><a href="../sort/asc_year.php" class="glyphicon glyphicon-triangle-top text-muted"></a></th>
+          <th>Year<a href="../sort/desc_year.php" class="glyphicon glyphicon-triangle-bottom text-muted"></a><a href="../sort/asc_year.php" class="glyphicon glyphicon-triangle-top"></a></th>
         </tr>
       </thead>
       <tbody>

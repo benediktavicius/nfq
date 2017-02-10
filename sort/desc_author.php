@@ -61,7 +61,7 @@ include("../global/scripts.php");
 
       for($b=1;$b<=$a;$b++)
       {
-        ?><a href="asc_author.php?page=<?php echo $b; ?>"><?php echo $b . " "; ?></a><?php
+        ?><a href="desc_author.php?page=<?php echo $b; ?>"><?php echo $b . " "; ?></a><?php
       }
 
       ?>
